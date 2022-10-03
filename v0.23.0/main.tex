@@ -1,0 +1,203 @@
+\documentclass[10pt,landscape,a4paper]{article}
+\usepackage[right=10mm, left=10mm, top=10mm, bottom=2.3cm]{geometry}
+\usepackage[english]{babel}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{colortbl}
+\usepackage{array}
+
+
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}
+
+
+% PDF title
+\newcommand{\posterv}{v0.1.1}
+\newcommand{\gleamv}{v0.23.0}
+\newcommand{\pdftitle}{Gleam {\gleamv} Syntax Cheatsheet {\posterv}.}
+
+% Custom vertical space
+\newlength{\vertspace}
+\setlength{\vertspace}{0.25cm}
+\newcommand{\vs}{ \vspace{\vertspace} }
+
+
+% --- Hyperlinking --------------------------------------------------------------
+\usepackage{hyperref}
+% --- Hyperlinking: Settings ----------------------------------------------------
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=red,
+    pdftitle={\pdftitle},
+    pdfpagemode=FullScreen,
+}
+
+
+% --- Multicol -----------------------------------------------------------------
+\usepackage{multicol}
+% --- Multicol: Settings--------------------------------------------------------
+\setlength\parindent{0pt}
+\setlength{\tabcolsep}{2pt}
+\baselineskip=0pt
+\setlength\columnsep{1em}
+
+
+% --- Listing -----------------------------------------------------------------
+\usepackage{listings}
+% --- Listing: Colors ---------------------------------------------------------
+\definecolor{commentColor}{RGB}{0, 183, 210}
+\definecolor{keywordsColor}{RGB}{255, 20, 220}
+\definecolor{stringColor}{RGB}{12, 185, 0}
+\definecolor{identifierColor}{RGB}{255, 97, 35}
+\definecolor{listingBackground}{RGB}{248, 248, 248}
+% --- Listing: Language Definition---------------------------------------------
+% Basis definition
+\lstdefinelanguage{Gleam}{
+    alsoletter={!=.><+-\&*/\%|},
+    keywords={
+      =, 
+      >., <., ==., <=., >=., !=.,
+      >, <, ==, <=, >=, !=,
+      \&\&, ||, |>, |,
+      +., -., *., /.,  \%.,
+      +, -, *, /,  \%,
+      ->, ..,
+    },
+    emph={
+      case, if, external, fn, import, let, assert, try, pub, type, opaque, const,
+      todo, True, False, as,
+    },
+    emphstyle={\ttfamily\bfseries},
+    morestring=[b]{"},
+    morestring=[b]{'},
+    morecomment=[l]{//},
+    morecomment=[l]{///},
+    morecomment=[l]{////},
+    frame=tb, framesep=4pt, framerule=0pt,
+    breakatwhitespace=false,
+    breaklines=true,
+    extendedchars=true,
+    keepspaces=true,
+    rulecolor=\color{black},
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    %%% FONT STYLE AND COLORING
+    backgroundcolor=\color{listingBackground},
+    basicstyle=\ttfamily\footnotesize,
+    keywordstyle=\bfseries\color{keywordsColor},
+    commentstyle=\color{commentColor},
+    stringstyle = \color{stringColor},
+}
+% Set and extended language definition
+\lstset{
+  language=Gleam,
+  emph=[2]{
+    CharList, List, Int, Float, Bool, Person, Value, Headers, String,
+    Identifier, IntOrFloat, AnInt, AFloat, Error, Ok, X, Cat,
+  },
+  emphstyle=[2]{\color{identifierColor}\ttfamily},
+}
+
+
+% --- Fonts -------------------------------------------------------------------
+\usepackage{fontspec}
+\usepackage[babel=true]{microtype}
+% --- Fonts: Setting ----------------------------------------------------------
+\defaultfontfeatures{Ligatures = TeX, Mapping = tex-text}
+\setsansfont{Roboto} [ Path           = fonts/roboto/Roboto-,
+                       Extension      = .ttf,
+                       Scale          = 0.90,
+                       UprightFont    = Light,
+                       ItalicFont     = LightItalic,
+                       BoldFont       = Regular,
+                       BoldItalicFont = Italic ]
+\setromanfont{RobotoSlab} [ Path           = fonts/roboto-slab/RobotoSlab-,
+                            Extension      = .ttf,
+                            Scale          = 0.90,
+                            UprightFont    = Light,
+                            BoldFont       = Bold ]
+\setmonofont{RobotoMono} [ Path           = fonts/roboto-mono/RobotoMono-,
+                           Extension      = .ttf,
+                           Scale          = 0.90,
+                           UprightFont    = Light,
+                           ItalicFont     = LightItalic,
+                           BoldFont       = Regular,
+                           BoldItalicFont = Italic ]
+\renewcommand{\familydefault}{\sfdefault}
+
+
+% --- Header -------------------------------------------------------------------
+\usepackage{fancyhdr}
+\usepackage{adjustbox}
+\usepackage{tikz}
+\usepackage{tikzpagenodes}
+\usetikzlibrary{fit,shadings,calc}
+% --- Header: Colors -----------------------------------------------------------
+\definecolor{charcoal}{RGB}{40, 40, 40}
+\definecolor{pink}{RGB}{255, 175, 243}
+% --- Header: Content ----------------------------------------------------------
+\fancyhf{} % Set header and footer to nothing
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{0.10\paperheight}
+\fancyhead[R]{
+    \begin{tikzpicture}[overlay, remember picture]
+      \draw (current page.south east) node[
+          xshift=-0.60cm, yshift=0.85cm, below, midway
+        ] {
+        \hspace{0.70cm}
+        {
+          \LARGE \rmfamily\textcolor{pink}{\textbf{\#\thepage}}
+        }
+      };      
+    \end{tikzpicture} 
+}
+\fancyhead[L]{
+  \begin{tikzpicture}[overlay, remember picture]
+    \draw[charcoal] let \p1=(current page.west), \p2=(current page.east) in
+      node[
+        minimum width=\x2-\x1,
+        minimum height=0.0cm,
+        rectangle,
+        draw,
+        fill=charcoal,
+        anchor=north west,
+        align=left,
+        text width=\x2-\x1
+      ] at ($(current page.north west)$) { 
+        \adjustbox{trim={0.0\width} {0.25\height} {0.0\width} {0.25\height}, clip}%
+        {
+          \hspace{0.64cm}
+          \includegraphics[height=0.175\paperheight]{img/gleam-pink}
+        }
+        \adjustbox{trim={0.0\width} {0.125\height} {0.00\width} {0.125\height}, clip}%
+        {
+          \includegraphics[height=0.125\paperheight]{img/lucy-pink-3}
+        }
+      };
+    \draw (current page.south west) node[xshift=2cm,yshift=0.178cm, below, midway] {
+      \rmfamily \textcolor{pink}{\textbf{. : : . \gleamv}}
+    };
+  \end{tikzpicture} 
+}
+
+% --- Document ----------------------------------------------------------------
+\begin{document}
+\pagestyle{fancy}
+
+\section*{\LARGE \rmfamily
+          Gleam {\mdseries Syntax }}
+
+\begin{multicols*}{3}
+  
+\input{sections/content}
+
+\input{sections/last}
+
+\end{multicols*}
+
+\end{document}

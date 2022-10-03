@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400"
+   sodipodi:docname="gleam-qr-charcoal.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview336"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.5675"
+     inkscape:cx="201.16845"
+     inkscape:cy="200.19474"
+     inkscape:window-width="3440"
+     inkscape:window-height="1257"
+     inkscape:window-x="0"
+     inkscape:window-y="156"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs6" />
+  <g
+     id="g897"
+     inkscape:export-filename="gleam-qr-charcoal.pdf"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <g
+       id="g10"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,399.99999)">
+      <g
+         id="g12"
+         transform="scale(0.1)">
+        <path
+           d="m 0,2880 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path16" />
+        <path
+           d="m 120,2880 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path18" />
+        <path
+           d="m 240,2880 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20" />
+        <path
+           d="m 360,2880 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path22" />
+        <path
+           d="m 480,2880 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path24" />
+        <path
+           d="m 600,2880 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path26" />
+        <path
+           d="m 720,2880 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path28" />
+        <path
+           d="m 960,2880 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path30" />
+        <path
+           d="m 1320,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path32" />
+        <path
+           d="m 1560,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path34" />
+        <path
+           d="m 2160,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path36" />
+        <path
+           d="m 2280,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path38" />
+        <path
+           d="m 2400,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path40" />
+        <path
+           d="m 2520,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path42" />
+        <path
+           d="m 2640,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path44" />
+        <path
+           d="m 2760,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path46" />
+        <path
+           d="m 2880,2880 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path48" />
+        <path
+           d="m 0,2760 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path50" />
+        <path
+           d="m 720,2760 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path52" />
+        <path
+           d="m 1080,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path54" />
+        <path
+           d="m 1200,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path56" />
+        <path
+           d="m 1320,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path58" />
+        <path
+           d="m 1440,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path60" />
+        <path
+           d="m 1560,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path62" />
+        <path
+           d="m 2160,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path64" />
+        <path
+           d="m 2880,2760 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path66" />
+        <path
+           d="m 0,2640 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path68" />
+        <path
+           d="m 240,2640 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path70" />
+        <path
+           d="m 360,2640 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path72" />
+        <path
+           d="m 480,2640 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path74" />
+        <path
+           d="m 720,2640 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path76" />
+        <path
+           d="m 960,2640 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path78" />
+        <path
+           d="m 1560,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path80" />
+        <path
+           d="m 1680,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path82" />
+        <path
+           d="m 1800,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path84" />
+        <path
+           d="m 2160,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path86" />
+        <path
+           d="m 2400,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path88" />
+        <path
+           d="m 2520,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path90" />
+        <path
+           d="m 2640,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path92" />
+        <path
+           d="m 2880,2640 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path94" />
+        <path
+           d="m 0,2520 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path96" />
+        <path
+           d="m 240,2520 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path98" />
+        <path
+           d="m 360,2520 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path100" />
+        <path
+           d="m 480,2520 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path102" />
+        <path
+           d="m 720,2520 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path104" />
+        <path
+           d="m 960,2520 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path106" />
+        <path
+           d="m 1200,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path108" />
+        <path
+           d="m 1320,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path110" />
+        <path
+           d="m 1440,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path112" />
+        <path
+           d="m 1560,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path114" />
+        <path
+           d="m 1680,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path116" />
+        <path
+           d="m 2160,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path118" />
+        <path
+           d="m 2400,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path120" />
+        <path
+           d="m 2520,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path122" />
+        <path
+           d="m 2640,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path124" />
+        <path
+           d="m 2880,2520 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path126" />
+        <path
+           d="m 0,2400 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path128" />
+        <path
+           d="m 240,2400 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path130" />
+        <path
+           d="m 360,2400 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path132" />
+        <path
+           d="m 480,2400 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path134" />
+        <path
+           d="m 720,2400 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path136" />
+        <path
+           d="m 960,2400 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path138" />
+        <path
+           d="m 1080,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path140" />
+        <path
+           d="m 1440,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path142" />
+        <path
+           d="m 1680,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path144" />
+        <path
+           d="m 1800,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path146" />
+        <path
+           d="m 1920,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path148" />
+        <path
+           d="m 2160,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path150" />
+        <path
+           d="m 2400,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path152" />
+        <path
+           d="m 2520,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path154" />
+        <path
+           d="m 2640,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path156" />
+        <path
+           d="m 2880,2400 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path158" />
+        <path
+           d="m 0,2280 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path160" />
+        <path
+           d="m 720,2280 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path162" />
+        <path
+           d="m 1080,2280 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path164" />
+        <path
+           d="m 1560,2280 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path166" />
+        <path
+           d="m 1680,2280 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path168" />
+        <path
+           d="m 2160,2280 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path170" />
+        <path
+           d="m 2880,2280 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path172" />
+        <path
+           d="m 0,2160 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path174" />
+        <path
+           d="m 120,2160 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path176" />
+        <path
+           d="m 240,2160 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path178" />
+        <path
+           d="m 360,2160 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path180" />
+        <path
+           d="m 480,2160 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path182" />
+        <path
+           d="m 600,2160 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path184" />
+        <path
+           d="m 720,2160 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path186" />
+        <path
+           d="m 960,2160 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path188" />
+        <path
+           d="m 1200,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path190" />
+        <path
+           d="m 1440,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path192" />
+        <path
+           d="m 1680,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path194" />
+        <path
+           d="m 1920,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path196" />
+        <path
+           d="m 2160,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path198" />
+        <path
+           d="m 2280,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path200" />
+        <path
+           d="m 2400,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path202" />
+        <path
+           d="m 2520,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path204" />
+        <path
+           d="m 2640,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path206" />
+        <path
+           d="m 2760,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path208" />
+        <path
+           d="m 2880,2160 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path210" />
+        <path
+           d="m 1320,2040 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path212" />
+        <path
+           d="m 1440,2040 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path214" />
+        <path
+           d="m 1680,2040 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path216" />
+        <path
+           d="m 1920,2040 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path218" />
+        <path
+           d="m 0,1920 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path220" />
+        <path
+           d="m 120,1920 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path222" />
+        <path
+           d="m 240,1920 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path224" />
+        <path
+           d="m 360,1920 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path226" />
+        <path
+           d="m 720,1920 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path228" />
+        <path
+           d="m 960,1920 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path230" />
+        <path
+           d="m 1080,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path232" />
+        <path
+           d="m 1200,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path234" />
+        <path
+           d="m 1440,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path236" />
+        <path
+           d="m 1680,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path238" />
+        <path
+           d="m 2040,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path240" />
+        <path
+           d="m 2400,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path242" />
+        <path
+           d="m 2520,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path244" />
+        <path
+           d="m 2640,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path246" />
+        <path
+           d="m 2880,1920 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path248" />
+        <path
+           d="m 0,1800 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path250" />
+        <path
+           d="m 120,1800 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path252" />
+        <path
+           d="m 480,1800 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path254" />
+        <path
+           d="m 600,1800 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path256" />
+        <path
+           d="m 840,1800 h 120 v 120 H 840 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path258" />
+        <path
+           d="m 960,1800 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path260" />
+        <path
+           d="m 1320,1800 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path262" />
+        <path
+           d="m 1560,1800 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path264" />
+        <path
+           d="m 1920,1800 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path266" />
+        <path
+           d="m 2280,1800 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path268" />
+        <path
+           d="m 2760,1800 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path270" />
+        <path
+           d="m 120,1680 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path272" />
+        <path
+           d="m 360,1680 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path274" />
+        <path
+           d="m 480,1680 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path276" />
+        <path
+           d="m 720,1680 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path278" />
+        <path
+           d="m 1080,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path280" />
+        <path
+           d="m 1200,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path282" />
+        <path
+           d="m 1320,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path284" />
+        <path
+           d="m 1440,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path286" />
+        <path
+           d="m 1560,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path288" />
+        <path
+           d="m 2160,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path290" />
+        <path
+           d="m 2280,1680 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path292" />
+        <path
+           d="m 120,1560 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path294" />
+        <path
+           d="m 360,1560 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path296" />
+        <path
+           d="m 600,1560 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path298" />
+        <path
+           d="m 1560,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path300" />
+        <path
+           d="m 1680,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path302" />
+        <path
+           d="m 1800,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path304" />
+        <path
+           d="m 1920,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path306" />
+        <path
+           d="m 2520,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path308" />
+        <path
+           d="m 2640,1560 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path310" />
+        <path
+           d="m 120,1440 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path312" />
+        <path
+           d="m 240,1440 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path314" />
+        <path
+           d="m 480,1440 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path316" />
+        <path
+           d="m 600,1440 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path318" />
+        <path
+           d="m 720,1440 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path320" />
+        <path
+           d="m 960,1440 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path322" />
+        <path
+           d="m 1080,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path324" />
+        <path
+           d="m 1440,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path326" />
+        <path
+           d="m 1560,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path328" />
+        <path
+           d="m 1680,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path330" />
+        <path
+           d="m 1800,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path332" />
+        <path
+           d="m 1920,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path334" />
+        <path
+           d="m 2040,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path336" />
+        <path
+           d="m 2160,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path338" />
+        <path
+           d="m 2400,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path340" />
+        <path
+           d="m 2640,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path342" />
+        <path
+           d="m 2760,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path344" />
+        <path
+           d="m 2880,1440 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path346" />
+        <path
+           d="m 240,1320 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path348" />
+        <path
+           d="m 360,1320 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path350" />
+        <path
+           d="m 600,1320 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path352" />
+        <path
+           d="m 840,1320 h 120 v 120 H 840 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path354" />
+        <path
+           d="m 1080,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path356" />
+        <path
+           d="m 1440,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path358" />
+        <path
+           d="m 1680,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path360" />
+        <path
+           d="m 1800,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path362" />
+        <path
+           d="m 1920,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path364" />
+        <path
+           d="m 2040,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path366" />
+        <path
+           d="m 2160,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path368" />
+        <path
+           d="m 2280,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path370" />
+        <path
+           d="m 2400,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path372" />
+        <path
+           d="m 2880,1320 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path374" />
+        <path
+           d="m 120,1200 h 120 v 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path376" />
+        <path
+           d="m 360,1200 h 120 v 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path378" />
+        <path
+           d="m 480,1200 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path380" />
+        <path
+           d="m 600,1200 h 120 v 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path382" />
+        <path
+           d="m 720,1200 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path384" />
+        <path
+           d="m 840,1200 h 120 v 120 H 840 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path386" />
+        <path
+           d="m 960,1200 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path388" />
+        <path
+           d="m 1080,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path390" />
+        <path
+           d="m 1920,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path392" />
+        <path
+           d="m 2040,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path394" />
+        <path
+           d="m 2400,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path396" />
+        <path
+           d="m 2640,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path398" />
+        <path
+           d="m 2760,1200 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path400" />
+        <path
+           d="m 0,1080 h 120 v 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path402" />
+        <path
+           d="m 480,1080 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path404" />
+        <path
+           d="m 840,1080 h 120 v 120 H 840 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path406" />
+        <path
+           d="m 960,1080 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path408" />
+        <path
+           d="m 1080,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path410" />
+        <path
+           d="m 1680,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path412" />
+        <path
+           d="m 1920,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path414" />
+        <path
+           d="m 2040,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path416" />
+        <path
+           d="m 2160,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path418" />
+        <path
+           d="m 2280,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path420" />
+        <path
+           d="m 2400,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path422" />
+        <path
+           d="m 2880,1080 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path424" />
+        <path
+           d="m 240,960 h 120 v 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path426" />
+        <path
+           d="m 480,960 h 120 v 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path428" />
+        <path
+           d="m 720,960 h 120 v 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path430" />
+        <path
+           d="m 840,960 h 120 v 120 H 840 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path432" />
+        <path
+           d="m 960,960 h 120 v 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path434" />
+        <path
+           d="m 1200,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path436" />
+        <path
+           d="m 1320,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path438" />
+        <path
+           d="m 1440,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path440" />
+        <path
+           d="m 1560,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path442" />
+        <path
+           d="m 1800,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path444" />
+        <path
+           d="m 1920,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path446" />
+        <path
+           d="m 2040,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path448" />
+        <path
+           d="m 2160,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path450" />
+        <path
+           d="m 2280,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path452" />
+        <path
+           d="m 2400,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path454" />
+        <path
+           d="m 2520,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path456" />
+        <path
+           d="m 2640,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path458" />
+        <path
+           d="m 2760,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path460" />
+        <path
+           d="m 2880,960 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path462" />
+        <path
+           d="m 960,840 h 120 V 960 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path464" />
+        <path
+           d="m 1080,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path466" />
+        <path
+           d="m 1320,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path468" />
+        <path
+           d="m 1440,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path470" />
+        <path
+           d="m 1560,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path472" />
+        <path
+           d="m 1680,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path474" />
+        <path
+           d="m 1920,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path476" />
+        <path
+           d="m 2400,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path478" />
+        <path
+           d="m 2640,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path480" />
+        <path
+           d="m 2880,840 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path482" />
+        <path
+           d="M 0,720 H 120 V 840 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path484" />
+        <path
+           d="M 120,720 H 240 V 840 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path486" />
+        <path
+           d="M 240,720 H 360 V 840 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path488" />
+        <path
+           d="M 360,720 H 480 V 840 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path490" />
+        <path
+           d="M 480,720 H 600 V 840 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path492" />
+        <path
+           d="M 600,720 H 720 V 840 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path494" />
+        <path
+           d="M 720,720 H 840 V 840 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path496" />
+        <path
+           d="m 1440,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path498" />
+        <path
+           d="m 1680,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path500" />
+        <path
+           d="m 1920,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path502" />
+        <path
+           d="m 2160,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path504" />
+        <path
+           d="m 2400,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path506" />
+        <path
+           d="m 2640,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path508" />
+        <path
+           d="m 2760,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path510" />
+        <path
+           d="m 2880,720 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path512" />
+        <path
+           d="M 0,600 H 120 V 720 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path514" />
+        <path
+           d="M 720,600 H 840 V 720 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path516" />
+        <path
+           d="m 1080,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path518" />
+        <path
+           d="m 1200,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path520" />
+        <path
+           d="m 1440,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path522" />
+        <path
+           d="m 1920,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path524" />
+        <path
+           d="m 2400,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path526" />
+        <path
+           d="m 2760,600 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path528" />
+        <path
+           d="M 0,480 H 120 V 600 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path530" />
+        <path
+           d="M 240,480 H 360 V 600 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path532" />
+        <path
+           d="M 360,480 H 480 V 600 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path534" />
+        <path
+           d="M 480,480 H 600 V 600 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path536" />
+        <path
+           d="M 720,480 H 840 V 600 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path538" />
+        <path
+           d="m 1320,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path540" />
+        <path
+           d="m 1680,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path542" />
+        <path
+           d="m 1920,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path544" />
+        <path
+           d="m 2040,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path546" />
+        <path
+           d="m 2160,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path548" />
+        <path
+           d="m 2280,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path550" />
+        <path
+           d="m 2400,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path552" />
+        <path
+           d="m 2520,480 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path554" />
+        <path
+           d="M 0,360 H 120 V 480 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path556" />
+        <path
+           d="M 240,360 H 360 V 480 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path558" />
+        <path
+           d="M 360,360 H 480 V 480 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path560" />
+        <path
+           d="M 480,360 H 600 V 480 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path562" />
+        <path
+           d="M 720,360 H 840 V 480 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path564" />
+        <path
+           d="m 960,360 h 120 V 480 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path566" />
+        <path
+           d="m 1200,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path568" />
+        <path
+           d="m 1320,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path570" />
+        <path
+           d="m 1560,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path572" />
+        <path
+           d="m 2040,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path574" />
+        <path
+           d="m 2160,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path576" />
+        <path
+           d="m 2400,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path578" />
+        <path
+           d="m 2520,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path580" />
+        <path
+           d="m 2640,360 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path582" />
+        <path
+           d="M 0,240 H 120 V 360 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path584" />
+        <path
+           d="M 240,240 H 360 V 360 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path586" />
+        <path
+           d="M 360,240 H 480 V 360 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path588" />
+        <path
+           d="M 480,240 H 600 V 360 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path590" />
+        <path
+           d="M 720,240 H 840 V 360 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path592" />
+        <path
+           d="m 960,240 h 120 V 360 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path594" />
+        <path
+           d="m 1200,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path596" />
+        <path
+           d="m 1320,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path598" />
+        <path
+           d="m 1440,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path600" />
+        <path
+           d="m 1800,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path602" />
+        <path
+           d="m 1920,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path604" />
+        <path
+           d="m 2040,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path606" />
+        <path
+           d="m 2160,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path608" />
+        <path
+           d="m 2400,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path610" />
+        <path
+           d="m 2640,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path612" />
+        <path
+           d="m 2760,240 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path614" />
+        <path
+           d="M 0,120 H 120 V 240 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path616" />
+        <path
+           d="M 720,120 H 840 V 240 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path618" />
+        <path
+           d="m 960,120 h 120 V 240 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path620" />
+        <path
+           d="m 1200,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path622" />
+        <path
+           d="m 1440,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path624" />
+        <path
+           d="m 1560,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path626" />
+        <path
+           d="m 1680,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path628" />
+        <path
+           d="m 2400,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path630" />
+        <path
+           d="m 2640,120 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path632" />
+        <path
+           d="M 0,0 H 120 V 120 H 0 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path634" />
+        <path
+           d="M 120,0 H 240 V 120 H 120 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path636" />
+        <path
+           d="M 240,0 H 360 V 120 H 240 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path638" />
+        <path
+           d="M 360,0 H 480 V 120 H 360 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path640" />
+        <path
+           d="M 480,0 H 600 V 120 H 480 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path642" />
+        <path
+           d="M 600,0 H 720 V 120 H 600 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path644" />
+        <path
+           d="M 720,0 H 840 V 120 H 720 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path646" />
+        <path
+           d="m 960,0 h 120 V 120 H 960 Z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path648" />
+        <path
+           d="m 1080,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path650" />
+        <path
+           d="m 1200,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path652" />
+        <path
+           d="m 1440,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path654" />
+        <path
+           d="m 1560,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path656" />
+        <path
+           d="m 1680,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path658" />
+        <path
+           d="m 2040,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path660" />
+        <path
+           d="m 2160,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path662" />
+        <path
+           d="m 2280,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path664" />
+        <path
+           d="m 2400,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path666" />
+        <path
+           d="m 2520,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path668" />
+        <path
+           d="m 2640,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path670" />
+        <path
+           d="m 2760,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path672" />
+        <path
+           d="m 2880,0 h 120 v 120 h -120 z"
+           style="fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path674" />
+      </g>
+    </g>
+  </g>
+</svg>

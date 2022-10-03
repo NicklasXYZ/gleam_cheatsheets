@@ -1,0 +1,546 @@
+% -----------------------------------------------------------------------------
+\subsection*{\rmfamily Comments}
+
+Comments must start with forward slashes.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // This is a comment in Gleam
+
+  /// This is comment to document a statement
+  const answer: Int = 42
+
+  //// This is comment to document a module
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Operators}
+
+In Gleam the following operators are available:
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  ==  // Equal
+  !=  // Not equal
+  >   // Int greater than
+  >.  // Float greater than
+  >=  // Int greater or equal
+  >=. // Float greater or equal
+  <   // Int less than
+  <.  // Float less than
+  >=  // Int less or equal
+  >=. // Less or equal
+  &&  // Boolean and
+  ||  // Boolean or	
+  +   // Int add
+  +.  // Float add
+  -   // Int subtract
+  -.  // Float subtract
+  *   // Int multiply
+  *.  // Float multiply
+  /   // Int divide
+  /.  // Float divide
+  %   // Modulo	
+  |>  // Pipe
+\end{lstlisting}
+
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Variables \& Data Types}
+
+The \lstinline[language=Gleam, basicstyle=\small]!let! keyword is used 
+before variable names.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  let size = 5_000
+
+  // Re-assignment of the 'size' variable
+  let size = size + 1_000
+  let size = 1_000_000
+\end{lstlisting}
+
+\vs
+\subsubsection*{\rmfamily Variable type annotations}
+
+Type annotations can be given when binding variables.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  let some_float: Float = 1.0
+  let some_int: Int = 1  
+
+  // A list contains elements of the same data type
+  let some_list: List(Int) = [1, 2, 3]
+
+  // Strings are UTF-8 encoded and use double quotes 
+  let some_string: String = "Hellø, world!"
+
+  // Tuples allow elements with different data types
+  let some_tuple: #(Int, Float, String) = #(1, 1.0, "1")
+\end{lstlisting}
+
+\vs
+\subsubsection*{\rmfamily Maps}
+
+Maps can have keys and values of any type, but all keys must be of 
+the same type.
+
+% [belowskip=-\baselineskip]
+\begin{lstlisting}
+  import gleam/map
+
+  map.from_list([#("key1", "val1"), #("key2", "val2")])
+\end{lstlisting}
+
+\vs
+Furthermore, all values must be of the same type otherwise:
+
+% [belowskip=-\baselineskip]
+\begin{lstlisting}
+  import gleam/map
+
+  // Type error!
+  map.from_list([#("key1", "val1"), #("key2", 2)])  
+\end{lstlisting}
+
+There is no map literal syntax in Gleam, and you cannot pattern match on a map.
+Maps are generally not used much in Gleam.
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Match operator}
+
+The \lstinline[language=Gleam, basicstyle=\small]!let! keyword and the
+\,\lstinline[language=Gleam, basicstyle=\large]!=!\, operator can be used for
+pattern matching. For assertions, the 
+\lstinline[language=Gleam, basicstyle=\small]!assert! keyword is preferred.
+
+% [belowskip=-\baselineskip]
+\begin{lstlisting}
+  // Bind element 1 in tuple to name x
+  let #(x, _) = #(1, 2)
+
+  // Pattern match with 1 in list and bind 2 to name y
+  let [1, y, _] = [1, 2, 3]  
+
+  // Runtime error
+  assert [] = [1]
+
+  // Compile error, type mismatch
+  assert [z] = "Hello"
+\end{lstlisting}
+
+% \vs
+% \subsubsection*{\rmfamily Strings}
+
+% Strings are UTF-8 encoded and specified with double quotes:
+
+% \begin{lstlisting}[belowskip=-\baselineskip]
+%   let some_string = "Hellø, world! This is a string!"
+% \end{lstlisting}
+
+% \vs
+% \subsubsection*{\rmfamily Tuples}
+
+% Tuples are collections of other data types that can be mixed:
+
+% \begin{lstlisting}[belowskip=-\baselineskip]
+%   // Specifying a tuple with different data types
+%   let my_tuple = #("username", "password", 10)
+
+%   // Unpacking values of a tuple binding a specific
+%   // value of the tuple to a name 'password'
+%   let #(_, password, _) = my_tuple
+% \end{lstlisting}
+
+% \vs
+% \subsubsection*{\rmfamily Lists}
+
+% Lists are collections and contain elements of the same type:
+
+% % [belowskip=-\baselineskip]
+% \begin{lstlisting}
+%   let list = [2, 3, 4]
+
+%   // Compile error, type mismatch
+%   [1.0, ..list]
+% \end{lstlisting}
+
+\vs
+For list destructuring and pattern matching the \,\lstinline[language=Gleam, basicstyle=\Large]!..!\,  
+operator can be used.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  let list = [2, 3, 4]
+
+  // Prepend element 1 to the list
+  let list = [1, .. list]
+
+  // Pattern match with 1 in the list and bind the
+  // second element to name 'second_element' 
+  let [1, second_element, .. ] = list
+\end{lstlisting}
+
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Functions}
+
+Functions are declared using the 
+\lstinline[language=Gleam, basicstyle=\small]!fn! keyword.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // This is a named function
+  fn sum(x, y) {
+    x + y
+  }
+
+  // This is an anonymous function 
+  let mul = fn(x, y) { x * y }
+  mul(1, 2)
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Exporting functions}
+
+Functions are private by default but can be made public using the 
+\lstinline[language=Gleam, basicstyle=\small]!pub! keyword.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // This is a private function
+  fn mul(x, y) {
+    x * y
+  }
+
+  // This is a public function
+  pub fn sum(x, y) {
+    x + y
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Function type annotations}
+
+Functions can have their argument and return types annotated.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  pub fn add(x: Int, y: Int) -> Int {
+    x + y
+  }
+  
+  // Compile error, return type mismatch  
+  pub fn mul(x: Int, y: Int) -> Bool {
+    x * y
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Labelled function arguments}
+
+Arguments can be given a label as well as an internal name.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  pub fn replace(in string, each pattern, with sub) {
+    some_func(string, pattern, sub)
+  }
+
+  // Note: Labelled arguments can be given in any order
+  replace(each: ",", with: " ", in: "A,B,C")
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Referencing functions}
+
+A function can be referenced without any special syntax.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // Function to be referenced
+  pub fn identity(x) {
+    x
+  }
+  
+  // Assignment of the function to a variable
+  let func = identity
+  func(100)
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Constants}
+
+Constants can be created using the 
+\lstinline[language=Gleam, basicstyle=\small]!const! keyword.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  const the_answer = 42
+
+  // We can return the value through a function call
+  pub fn main() {
+    the_answer
+  }
+
+  // Constants can also be exported and referenced in 
+  // other modules if declared with the 'pub' keyword 
+  pub const other_answer = 99
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Expression blocks}
+
+Braces \lstinline[language=Gleam, basicstyle=\small]!{ }! are used to group
+expressions.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  pub fn main() {
+    let x = {
+      some_func(1)
+      2
+    }
+    // Braces change the order of arithmetic operations
+    let y = x * {x + 10}
+    y
+  }
+\end{lstlisting}
+
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Flow control}
+
+The \lstinline[language=Gleam, basicstyle=\small]!case! expression provides a way
+to match a value type to an expression. Some examples are given in the following.
+
+% [belowskip=-\baselineskip]
+\begin{lstlisting}
+  case some_number {
+    0 -> "Zero"
+    1 -> "One"
+    2 -> "Two"
+    // This matches anything
+    n -> "Some other number" 
+  }
+\end{lstlisting}
+
+\vs
+A \lstinline[language=Gleam, basicstyle=\small]!case! expression can be coupled
+with destructuring to provide native pattern matching.
+
+\begin{lstlisting}
+  case xs {
+    [] -> "This list is empty"
+    [a] -> "This list has 1 element"
+    [a, b] -> "This list has 2 elements"
+    _other -> "This list has more than 2 elements"
+  }
+\end{lstlisting}
+
+\vs
+A \lstinline[language=Gleam, basicstyle=\small]!case! expression also supports guards.
+
+% NOTE: Remove some vertical space here
+\begin{lstlisting}[belowskip=-0.3\baselineskip] 
+  case xs {
+    // Use the 'if' keyword to add a guard expression
+    // to the case clause 
+    [a, b, c] if a >. b && a <=. c -> "ok"
+    _other -> "ko"
+  }
+  
+\end{lstlisting}
+
+\columnbreak % NOTE: Column break here
+
+\vs
+...along with disjoint union matching.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  case number {
+    2 | 4 | 6 | 8 -> "This is an even number"
+    1 | 3 | 5 | 7 -> "This is an odd number"
+    _ -> "I'm not sure"
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Error management}
+
+Handling errors means to match the return value of an operation against an
+\lstinline[language=Gleam, basicstyle=\small]!Error! or
+\lstinline[language=Gleam, basicstyle=\small]!Ok! container.
+
+%[belowskip=-\baselineskip]
+\begin{lstlisting}
+  case parse_int("123") {
+    Error(e) -> io.println("That wasn't an Int")
+    Ok(i) -> io.println("We parsed the Int")
+  }
+\end{lstlisting}
+
+\vs
+The \lstinline[language=Gleam, basicstyle=\small]!try! keyword simplifies this.
+It will either bind a value to the providing name if 
+\lstinline[language=Gleam, basicstyle=\small]!Ok(Value)! is matched, or interrupt
+the flow and return \lstinline[language=Gleam, basicstyle=\small]!Error(Value)!.
+An example is given in the following.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  let a_number = "1"
+  let an_error = Error("ouch")
+  let another_number = "3"
+  
+  // Successful
+  try int_a_number = parse_int(a_number)
+
+  // Error will be returned
+  try attempt_int = parse_int(an_error)
+
+  // Consequently, this never gets executed
+  try int_another_number = parse_int(another_number)
+
+  // ... and this never gets executed
+  Ok(int_a_number + attempt_int + int_another_number)
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Type aliases}
+
+Type aliases allow for referencing of arbitrary complex types. Even though 
+their type systems do not serve the same function. The \lstinline[language=Gleam, basicstyle=\small]!type!
+keyword can be used to create aliases.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  pub type Headers =
+    List(#(String, String))
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Custom types}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Records}
+
+A Custom type allows you to define a collection data type with a fixed number of 
+named fields, and the values in those fields can be of differing types.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  type Person {
+    Person(name: String, age: Int)
+  }
+  
+  let person = Person(name: "Jake", age: 35)
+  let name = person.name
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Unions}
+
+Functions must always take and receive one type. To have a union of
+two different types they must be wrapped in a new custom type.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  type IntOrFloat {
+    AnInt(Int)
+    AFloat(Float)
+  }
+  
+  fn int_or_float(X) {
+    case X {
+      True -> AnInt(1)
+      False -> AFloat(1.0)
+    }
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Opaque custom types}
+
+Custom types can be defined as being \emph{opaque}, which causes the constructors for
+the custom type not to be exported from the module. Without any constructors to
+import other modules can only interact with opaque types using the intended API.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  pub opaque type Identifier {
+    Identifier(Int)
+  }
+  
+  // Return 'Identifier' with an assigned value of 100
+  pub fn get_id() {
+    Identifier(100)
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsection*{\rmfamily Modules}
+
+A Gleam file is a module that is named based on its filename and directory path.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // In file foo.gleam
+  pub fn identity(x) {
+    x
+  }
+  
+  // In file main.gleam
+  import foo
+
+  pub fn main() {
+    foo.identity(1)
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Imports}
+
+Imports are relative to the root 
+\lstinline[language=Gleam, basicstyle=\normalsize]!src! folder.
+Modules in the same directory will need to reference the entire path
+from \lstinline[language=Gleam, basicstyle=\normalsize]!src! for the target module,
+even if the target module is in the same folder.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  // Inside src/nasa/moon_base.gleam
+  // Imports src/nasa/rocket_ship.gleam
+  import nasa/rocket_ship
+  
+  pub fn explore_space() {
+    rocket_ship.launch()
+  }
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Named Imports}
+Named imports can be accomplished using the 
+\lstinline[language=Gleam, basicstyle=\small]!as! keyword.
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  import unix/cat
+  import animal/cat as kitty  
+\end{lstlisting}
+
+% -----------------------------------------------------------------------------
+\vs
+\subsubsection*{\rmfamily Unqualified imports}
+
+Unqualified imports are done in the following way:
+
+\begin{lstlisting}[belowskip=-\baselineskip]
+  import animal/cat.{Cat, stroke}
+
+  pub fn main() {
+    let kitty = Cat(name: "Nubi")
+    stroke(kitty)
+  }
+\end{lstlisting}
